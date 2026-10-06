@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(247, 201, 141);
+    text-align: center;
+    /* width: 1200px; */
+    margin-left: 300px;
+    margin-right: 300px;
+  
+}
+
+#cabecalho {
+
+}
+
+#corpo {
+    background-color: rgb(202, 243, 229);
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+}
+
+#grade {
+    background-color: rgb(251, 175, 76);
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <header id="cabecalhoLogin">
+                <h1>Login</h1>
+
+                <p>Entre na sua conta</p>
+        </header>
+
+        <p id="formulario">
+            <form id="formLogin" method="get">
+                <label for="usuario">Usuário:</label>
+                <input type="text" placeholder="Digite o seu usuario" name="usuario" id="usuario">
+
+                <label for="senha">Senha:</label>
+                <input type="password"  placeholder="Digite sua senha" id="senha">
+                <button onclick="enviarFormulario()">Enviar</button>
+            </form>
+        </p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

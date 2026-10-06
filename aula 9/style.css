@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(99, 148, 239);
+}
+body {
+    background-color: cornflowerblue;
+}
+
+.container {
+    background-color: rgba(255, 105, 180, 0.825);
+    text-align: center;
+    color: white;
+}
+.menu a {
+    color: white;
+}
+
+.apresentacao {
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+*{
+    border: solid 2px;
+}
+
+.apresentacao h2 {
+    
+}
+
+.grid {
+    background-color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.grid-sabores h2 {
+    text-align: center;
+}
+
+.grid h3 {
+    color: purple;
+}
+
+.sub-grid-sabores{
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.contato {
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px; 
+}
+.rodape {
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.75);
+}
+
+
+
+
+

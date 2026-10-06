@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;   
+}
+
+body { 
+    background-color: blanchedalmond;
+    text-align: center; 
+}
+
+h1 {  
+
+    background-color: beige;
+    padding: 30px;
+}
+
+main {
+    
+    
+}
+input {
+   
+}
+
+button {
+    margin-bottom: 50px;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+}
+
+p {
+    margin-top:30px ;
+}
+
+div {
+    background-color: burlywood;
+    width: 800px;
+    height: 600px;
+    border-radius: 20px;
+    margin: 20px auto;
+    /* margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px; */
+}

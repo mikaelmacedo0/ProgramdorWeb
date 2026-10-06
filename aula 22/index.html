@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funções</title>
+</head>
+
+<body>
+    <p>
+        <label for="soma">Soma:<br></label>
+        <input type="number" id="numero1" placeholder="Digite um número"><span> + </span>
+        <input type="number" id="numero2" placeholder="Digite outro número">
+    <p></p>
+    <input type="text" id="resultadoSoma" readonly>
+    <button id="calcular" onclick="soma()">Calcular</button>
+    </p>
+    <p>
+        <label for="subtracao">Subtração:<br></label>
+        <input type="number" id="numero3" placeholder="Digite um número"><span> - </span>
+        <input type="number" id="numero4" placeholder="Digite outro número">
+    <p></p>
+    <input type="text" id="resultadoSubtracao" readonly>
+    <button onclick="subtracao()">Calcular</button>
+    <div id="resultadoSubtracao"></div>
+    </p>
+    <p>
+        <label for="multiplicacao">Multiplicação:<br></label>
+        <input type="number" id="numero5" placeholder="Digite um número"><span> x </span>
+        <input type="number" id="numero6" placeholder="Digite outro número">
+    <p></p>
+    <input type="text" id="resultadoMultiplicacao" readonly>
+    <button onclick="multiplicacao()">Calcular</button>
+    <div id="resultadoMultiplicacao"></div>
+    </p>
+    <p>
+        <label for="divisao">Divisão:<br></label>
+        <input type="number" id="numero7" placeholder="Digite um número"><span> ÷ </span>
+        <input type="number" id="numero8" placeholder="Digite outro número">
+    <p></p>
+    <input type="text" id="resultadoDivisao" readonly>
+    <button onclick="divisao()">Calcular</button>
+    <div id="resultadoDivisao"></div>
+    </p>
+
+    <p>
+        <label for="restoDaDivisao">Resto da Divisão:<br></label>
+        <input type="number" id="numero9" placeholder="Digite um número"><span> % </span>
+        <input type="number" id="numero10" placeholder="Digite outro número">
+    <p></p>
+    <input type="text" id="resultadoRestoDaDivisao" readonly>
+    <button onclick="restoDaDivisao()">Calcular</button>
+    <div id="resultadoRestoDaDivisao"></div>
+    </p>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

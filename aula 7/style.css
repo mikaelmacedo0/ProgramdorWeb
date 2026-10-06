@@ -1,0 +1,39 @@
+body {
+    background-color: darkslategray;
+}
+
+div {
+     background-color: rgba(255, 238, 0, 0.213);
+}
+.Cabecalho {
+    background-color: rgba(255, 238, 0, 0.213);
+}
+
+.Conteudo p{
+     background-color: rgba(255, 238, 0, 0.102);
+}
+
+.Rodape{
+    background-color:  rgba(255, 238, 0, 0.213);
+    text-align: center;
+}
+
+.Menu {
+    text-align: center;
+}
+
+*{
+    color: aliceblue;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+

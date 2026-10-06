@@ -1,0 +1,15 @@
+.botao-clicado{
+    border: solid 2px;
+    font-weight: bold;
+}
+
+.corpo-redondo{
+    width: 100%;
+    background-color: blue;
+    border-radius: 100%;
+}
+
+.modo-escuro {
+    background-color: blueviolet;
+}
+

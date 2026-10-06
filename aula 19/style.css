@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    body {
+        background-color: rgb(66, 66, 217);
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        position: absolute;
+        top: 35%;
+        left: 45%;
+        
+    }
+    input {
+        margin: 5px;
+        border-radius: 5px;
+        border: 1;
+    }
+
+    button {
+        margin: 5px;
+        padding: 5px;
+    }
+}
+
+#container{
+      background-color: aliceblue;
+      padding: 20%;
+      border-radius: 10px;
+}
+
+#cabecalhoLogin{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#formLogin {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+ 
+
+}
+
+

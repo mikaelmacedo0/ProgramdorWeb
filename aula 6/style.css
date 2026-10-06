@@ -1,0 +1,15 @@
+.cabeçalho{
+    display: flex;
+    background-color:  rgb(255, 11, 206)
+}
+.logo {
+    background-color: rgb(149, 236, 149);
+}
+
+.conteudo {
+    background-color: rgb(232, 123, 123);
+}
+
+div{
+    background-color: blueviolet;
+}

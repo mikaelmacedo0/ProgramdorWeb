@@ -1,0 +1,30 @@
+  *{
+            margin: 0;
+            padding: 0;
+        }
+        .conteiner {
+            display: flex;
+            justify-content: center;
+            align-items: center;  
+            background-color: chocolate;
+            border: solid 1px;
+            padding: 6vw;
+            width: 8vw;
+            
+        }
+        h2 {
+            text-align: center;
+        }
+        p {
+            background-color: bisque;
+            width: 15vw;
+            height: 10vh;
+            border: solid 1px;
+            padding: 20px;
+            li {
+
+                justify-content: center;
+                align-items:center;
+                margin: 10px;
+            }
+        }

@@ -1,0 +1,62 @@
+
+.logo {
+    display: flex;
+    background-color: aliceblue;
+}
+
+.Cabecalho {
+    Background-color:  rgba(255, 238, 0, 0.213);
+    display: flex;
+}
+
+.Menu {
+    text-align: right;
+}
+
+
+.Conteudo {
+     Background-color:  rgba(255, 238, 0, 0.213);
+}
+
+.Rodape{
+    background-color:  rgba(255, 238, 0, 0.213);
+    text-align: center;
+}
+
+
+ul {
+    background-color: yellowgreen;
+    width: 200px;
+    text-align: right;
+    padding-left: 20px;
+    
+}
+
+body {
+    background-color: darkslategray;
+}
+
+header{
+      background-color: rgba(255, 238, 0, 0.213);
+}
+
+li {
+    border-radius: 10px;
+    border-color: brown;
+}
+
+*{
+    color: aliceblue;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
